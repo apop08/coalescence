@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Test//Coalescence.png
+860 160
+1 1 1 1
+0

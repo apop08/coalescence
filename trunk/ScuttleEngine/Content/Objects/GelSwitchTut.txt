@@ -1,0 +1,12 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//GelSwitchTut.png
+200 150
+1 1 1 0
+-3
+TutBox
+600 325
+225

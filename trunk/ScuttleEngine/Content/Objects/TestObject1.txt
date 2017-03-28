@@ -1,0 +1,12 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//RJSatRA_Team_Logo_3.png
+344 196
+1 1 1 1
+1
+PhysBody
+172 98
+512

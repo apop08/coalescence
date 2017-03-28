@@ -1,0 +1,10 @@
+Transform
+0 0
+1 1
+0
+bNewGame
+Sprite
+..//Content//Test//Buttons//NewGame.png
+440 68
+1 1 1 1
+-3

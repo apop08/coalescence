@@ -1,0 +1,8 @@
+ButtonResolution.txt
+240 179
+1 1
+0
+ButtonVolume.txt
+240 102
+1 1
+0

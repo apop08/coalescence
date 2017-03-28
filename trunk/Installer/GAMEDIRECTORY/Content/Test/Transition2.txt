@@ -1,0 +1,10 @@
+Transform
+1000 150
+1 1
+0
+Camera
+Sprite
+..//Content//Test//Transition2.png
+1024 908
+1 1 1 1
+50

@@ -1,0 +1,26 @@
+Transform
+0 0
+1 1
+0
+Block
+Sprite
+..//Content//Textures//BlockLiquid.png
+128 128
+1 1 1 0.5
+-1
+SoundNode
+..//Content//Audio//ChangeToGas.mp3
+..//Content//Audio//ChangeToSolid.mp3
+..//Content//Audio//GelStick.mp3
+..//Content//Audio//GelPickup.mp3
+..//Content//Audio//Throw.mp3
+..//Content//Audio//LevelLocked.mp3
+endlist
+PhysBody
+64 64
+2097153
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

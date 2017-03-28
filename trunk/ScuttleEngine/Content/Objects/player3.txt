@@ -1,0 +1,36 @@
+Transform
+0 0
+1 1
+0
+Camera
+Player
+CompSprite
+..//Content//Textures//PlayerBody.png
+256 256
+1 1 1 1
+0 0
+1 1
+0
+..//Content//Textures//PlayerArm.png
+128 256
+1 1 1 1
+0 50
+1 1
+0
+endlist
+0
+SoundNode
+..//Content//Audio//TemporaryShootSound.mp3
+..//Content//Audio//RocketBoost1Temp.mp3
+..//Content//Audio//character_death.mp3
+endlist
+PhysBody
+40 120
+262145
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5
+Emitter
+FIRE

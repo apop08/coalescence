@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Test//bgPause.png
+1280 768
+1 1 1 1
+-1

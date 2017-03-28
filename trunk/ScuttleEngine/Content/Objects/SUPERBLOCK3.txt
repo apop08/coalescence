@@ -1,0 +1,27 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//SUPERBLOCK.png
+128 128
+1 1 1 1
+10
+PhysBody
+64 64
+0
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5
+Emitter
+10
+300
+500
+10
+50
+20
+3800
+0
+0

@@ -1,0 +1,13 @@
+Transform
+0 0
+1 1
+0
+bResolution
+Sprite
+..//Content//Textures//Buttons//Resolution1024x768.png
+512 64
+1 1 1 1
+-6
+SoundNode
+..//Content//Audio//MenuSound2.mp3
+endlist

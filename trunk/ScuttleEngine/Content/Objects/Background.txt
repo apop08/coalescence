@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//bg.png
+1280 768
+1 1 1 1
+50

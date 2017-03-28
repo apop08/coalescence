@@ -1,0 +1,13 @@
+Transform
+0 0
+1 1
+0
+bBack
+Sprite
+..//Content//Textures//Buttons//Back.png
+512 64
+1 1 1 1
+-8
+SoundNode
+..//Content//Audio//MenuSound2.mp3
+endlist

@@ -1,0 +1,10 @@
+Transform
+0 0
+1 1
+0
+Camera
+Sprite
+..//Content//Textures//Credits.png
+900 900
+1 1 1 1
+0

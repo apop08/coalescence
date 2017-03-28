@@ -1,0 +1,10 @@
+Transform
+0 0
+1 1
+0
+bRestart
+Sprite
+..//Content//Test//Buttons//Restart.png
+440 68
+1 1 1 1
+-3

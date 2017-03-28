@@ -1,0 +1,64 @@
+PMenuCredits.txt
+0 0
+2 2
+0
+CreditsText.txt
+0 -300
+0.5 0.5
+0
+CreditsText2.txt
+0 -500
+0.5 0.5
+0
+CreditsText3.txt
+0 -650
+0.5 0.5
+0
+CreditsText4.txt
+0 -750
+0.5 0.5
+0
+CreditsText5.txt
+0 -850
+0.5 0.5
+0
+CreditsText6.txt
+0 -950
+0.5 0.5
+0
+CreditsText7.txt
+0 -1050
+0.5 0.5
+0
+CreditsText8.txt
+0 -1150
+0.5 0.5
+0
+CreditsText9.txt
+0 -1350
+0.5 0.5
+0
+CreditsText10.txt
+0 -1450
+0.5 0.5
+0
+CreditsText11.txt
+0 -1550
+0.5 0.5
+0
+CreditsText12.txt
+0 -1650
+0.5 0.5
+0
+CreditsText13.txt
+0 -1800
+0.5 0.5
+0
+CreditsText14.txt
+0 -1850
+0.25 0.25
+0
+ButtonBack.txt
+350 -300
+1 1
+0

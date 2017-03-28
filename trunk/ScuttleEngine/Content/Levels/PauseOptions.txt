@@ -1,0 +1,24 @@
+ScreenMode.txt
+240 120
+0.75 0.75
+0
+ButtonFullscreen.txt
+336 80
+0.75 0.75
+0
+Resolution.txt
+240 3
+0.75 0.75
+0
+ButtonResolution.txt
+336 -37
+0.75 0.75
+0
+Volume.txt
+240 -114
+0.75 0.75
+0
+ButtonVolume.txt
+336 -154
+0.75 0.75
+0

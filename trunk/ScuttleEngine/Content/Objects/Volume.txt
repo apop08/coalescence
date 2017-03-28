@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//Buttons//Volume.png
+256 64
+1 1 1 1
+-6

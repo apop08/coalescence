@@ -1,0 +1,22 @@
+Transform
+0 0
+1 1
+0
+BlockWin
+Sprite
+..//Content//Textures//Door.png
+256 256
+1 1 1 1
+100
+SoundNode
+..//Content//Audio//DoorOpen.mp3
+..//Content//Audio//DoorClose.mp3
+endlist
+PhysBody
+40 96
+512
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

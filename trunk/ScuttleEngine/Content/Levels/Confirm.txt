@@ -1,0 +1,12 @@
+Confirm.txt
+0 0
+1 1
+0
+ButtonYes.txt
+-100 -65
+1 1
+0
+ButtonNo.txt
+100 -65
+1 1
+0

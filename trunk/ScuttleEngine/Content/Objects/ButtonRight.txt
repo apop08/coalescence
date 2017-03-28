@@ -1,0 +1,13 @@
+Transform
+0 0
+1 1
+0
+bArrowRight
+Sprite
+..//Content//Textures//Levels//Arrow_Right.png
+256 256
+1 1 1 1
+-10
+SoundNode
+..//Content//Audio//Arrows.mp3
+endlist

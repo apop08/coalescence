@@ -1,0 +1,517 @@
+1
+Player01
+Player3.txt
+-20 144.982
+0.5 0.5
+0
+127
+HUD01
+HUD.txt
+-44.3824 294.982
+1.02 1.02
+0
+0
+SB00
+SUPERBLOCK.txt
+531 -43
+10 2
+0
+0
+SB01
+SUPERBLOCK.txt
+-237 341
+2 8
+0
+0
+SB02
+SUPERBLOCK.txt
+1299 341
+2 8
+0
+0
+SB03
+SUPERBLOCK.txt
+531 725
+10 2
+0
+0
+SB04
+SUPERBLOCK.txt
+450 174
+1 2
+0
+0
+FanTut01
+FanTut.txt
+-445 544
+1 1
+0
+1
+StateTut01
+ShootTutorial.txt
+-150 544
+1 1
+0
+1
+DoorSwitchTut01
+DoorSwitchTut.txt
+190 690
+1 1
+0
+1
+Door01
+BlockWin.txt
+1020 181
+1 1
+0
+0
+Door00
+EntranceDoor.txt
+-20 181
+1 1
+0
+0
+BiFan01
+Fan2.txt
+703 531
+1 1
+90
+0
+Switch01
+Switch.txt
+720 84.1
+1 1
+0
+0
+SB05
+SUPERBLOCK.txt
+950 533
+3.45 1
+0
+0
+SB06
+SUPERBLOCK.txt
+571 143
+0.9 0.9
+0
+0
+Element01
+Block.txt
+510 353.961
+0.8 0.8
+0
+0
+DefaultObjectName
+Corner.txt
+-237 725
+-1 1
+0
+0
+DefaultObjectName
+Siding.txt
+-237 469
+-1 1
+0
+0
+DefaultObjectName
+Siding.txt
+-237 213
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-237 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-237 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-237 981
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 469
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 213
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 981
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 469
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 213
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 981
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+19 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+19 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+275 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+275 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+531 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+531 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+787 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+787 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1043 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1043 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1299 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1299 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 -299
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 -43
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 -299
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+19 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+19 981
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+275 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+275 981
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+531 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+531 981
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+787 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+787 981
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+1043 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1043 981
+-1 1
+0
+0
+DefaultObjectName
+Corner.txt
+1299 725
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1299 981
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 981
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 725
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 981
+-1 1
+0
+0
+DefaultObjectName
+Siding.txt
+1299 469
+1 1
+0
+0
+DefaultObjectName
+Siding.txt
+1299 213
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 469
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 213
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 469
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 213
+1 1
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+-425 24
+1 0.95
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+470 24
+1 0.95
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+1365 24
+1 0.95
+0
+0
+DefaultObjectName
+BoxPlatform.txt
+571 143
+0.45 0.45
+0
+0
+DefaultObjectName
+BoxPlatform.txt
+450.8 192
+0.5 0.87
+0
+0
+DefaultObjectName
+BoxPlatform.txt
+949 533
+1.73 0.5
+0
+0
+DefaultObjectName
+Background_Ground.txt
+147 340
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+659 340
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+1171 340
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+147 340
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+659 340
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+1171 340
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+403 468
+1 1
+0
+0

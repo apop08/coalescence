@@ -1,0 +1,33 @@
+Transform
+0 0
+1 1
+0
+Turret
+CompSprite
+..//Content//Textures//TurretGun2.png
+64 512
+1 1 1 1
+0 0
+1 0.75
+0
+..//Content//Textures//TurretBody.png
+512 512
+1 1 1 1
+0 0
+1 1
+0
+endlist
+0
+SoundNode
+..//Content//Audio//TurretShoot.mp3
+..//Content//Audio//TurretLockOn.mp3
+..//Content//Audio//TurretLockOff.mp3
+endlist
+PhysBody
+154 100
+32768
+4
+-.7 -.9
+-.7 0
+.7 0
+.7 -.9

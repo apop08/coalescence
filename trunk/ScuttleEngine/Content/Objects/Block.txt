@@ -1,0 +1,26 @@
+Transform
+0 0
+1 1
+0
+Block
+Sprite
+..//Content//Textures//Block.png
+128 128
+1 1 1 1
+7
+SoundNode
+..//Content//Audio//ChangeToGas.mp3
+..//Content//Audio//ChangeToGel.mp3
+..//Content//Audio//Drop.mp3
+..//Content//Audio//Pickup.mp3
+..//Content//Audio//Throw.mp3
+..//Content//Audio//LevelLocked.mp3
+endlist
+PhysBody
+64 64
+1
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

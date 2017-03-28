@@ -1,0 +1,28 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//BrokenPipe.png
+128 128
+1 1 1 1
+9
+AttenuatedSoundNode
+..//Content//Audio//Pipes_Activated.wav
+endlist
+3000.0
+3000.0
+PhysBody
+40 50
+32768
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5
+Static
+BrokenPipe
+80 120
+2
+Emitter
+PIPE

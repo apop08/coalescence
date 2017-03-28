@@ -1,0 +1,21 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//AniSwitch2.png
+64 64
+1 1 1 1
+8
+Switch
+SoundNode
+..//Content//Audio//SwitchActivation.mp3
+endlist
+PhysBody
+12 1
+136
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

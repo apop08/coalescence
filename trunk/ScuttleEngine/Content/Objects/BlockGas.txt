@@ -1,0 +1,25 @@
+Transform
+0 0
+1 1
+0
+Block
+Sprite
+..//Content//Textures//BlockGasPart.png
+80 80
+1 1 1 .9
+7
+SoundNode
+..//Content//Audio//ChangeToGel.mp3
+..//Content//Audio//ChangeToSolid.mp3
+..//Content//Audio//LevelLocked.mp3
+endlist
+PhysBody
+64 64
+517
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5
+Emitter
+CIRCLE

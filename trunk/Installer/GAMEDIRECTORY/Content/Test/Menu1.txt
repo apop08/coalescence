@@ -1,0 +1,32 @@
+MenuBackground.txt
+0 0
+2 2
+0
+MenuHUD.txt
+0 150
+1.02 1.02
+0
+MenuCoalescence.txt
+0 380
+1 1
+0
+ButtonNewGame.txt
+0 213
+1 1
+0
+ButtonHowToPlay.txt
+0 136
+1 1
+0
+ButtonOptions.txt
+0 59
+1 1
+0
+ButtonCredits.txt
+0 -18
+1 1
+0
+ButtonQuit.txt
+0 -95
+1 1
+0

@@ -1,0 +1,1807 @@
+1
+Player01
+Player3.txt
+231.859 187.977
+0.5 0.5
+0
+35
+HUD01
+HUD.txt
+231.859 337.977
+1.02 1.02
+0
+0
+SB00
+SUPERBLOCK.txt
+500 0
+8 2
+0
+0
+SB01
+SUPERBLOCK.txt
+-140 384
+2 8
+0
+0
+SB02
+SUPERBLOCK.txt
+1716 64
+5 3
+0
+0
+Element01
+Block.txt
+816.016 179.177
+0.8 0.8
+0
+0
+Element02
+BlockLiquid.txt
+39 348
+0.8 0.8
+0
+1
+SB03
+SUPERBLOCK.txt
+1012 768
+16 2
+0
+0
+SB04
+SUPERBLOCK.txt
+2164 384
+2 8
+0
+0
+KillVolume01
+KillZone.txt
+1140 -187.5
+1024 80
+0
+0
+Door01
+BlockWin.txt
+1800 352
+1 1
+0
+1
+Door00
+EntranceDoor.txt
+230 226
+1 1
+0
+0
+DefaultObjectName
+Corner_128.txt
+2100 704
+1 1
+0
+0
+DefaultObjectName
+Siding_128.txt
+2100 576
+1 1
+0
+0
+DefaultObjectName
+Siding_128.txt
+2100 448
+1 1
+0
+0
+DefaultObjectName
+Siding_128.txt
+2100 320
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1972 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1844 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1716 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1588 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1460 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1332 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1204 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+1076 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+948 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+820 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+692 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+564 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+436 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+308 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+180 704
+1 1
+0
+0
+DefaultObjectName
+Ceiling_128.txt
+52 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1332 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1204 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1076 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1332 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1204 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1076 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1332 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1204 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1076 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 1088
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 960
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 832
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 704
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2484 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2356 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2228 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+2100 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1972 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1844 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1716 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1588 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+1460 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 -64
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 -192
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 -320
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 -448
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-76 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-204 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-332 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+-460 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+52 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+180 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+308 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+436 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+564 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+692 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+820 -576
+1 1
+0
+0
+DefaultObjectName
+Dirt_128.txt
+948 -576
+1 1
+0
+0
+DefaultObjectName
+BaseVent.txt
+1457 195
+1 1
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+1961 195
+1 0.95
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+2860 195
+1 0.95
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+1457 -310
+1 1
+0
+0
+DefaultObjectName
+BaseVent.txt
+951 67
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+951 -438
+1 1
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+440 67
+1.01 0.95
+0
+0
+DefaultObjectName
+BaseVent.txt
+-72 67
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+-72 572
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+-72 1465
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+244 383
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+756 383
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+1268 383
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+1780 383
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+1524 511
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+1012 511
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+500 511
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+244 383
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+756 383
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+1268 383
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+1780 383
+1 1
+0
+0
+DefaultObjectName
+Pit.txt
+1268 -128
+1 1
+0
+0
+DefaultObjectName
+Pit_Gradient.txt
+1204 128
+1 1
+0
+0
+DefaultObjectName
+Pit_Bottom.txt
+1204 -384
+1 1
+0
+0
+DefaultObjectName
+Hazardous.txt
+1200 160
+0.7 0.7
+0
+0
+DefaultObjectName
+Vent.txt
+500 178
+0.75 0.75
+0
+0
+DefaultObjectName
+Vent.txt
+1524 305
+0.75 0.75
+0
+0
+GelTut01
+GelStickTut.txt
+0 0
+1 1
+0
+1
+ThrowTut01
+ThrowTut.txt
+0 0
+1 1
+0
+64
+DefaultObjectName
+Mask.txt
+1650 352
+1 1
+0
+0

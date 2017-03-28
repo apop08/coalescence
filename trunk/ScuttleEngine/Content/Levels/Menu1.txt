@@ -1,0 +1,24 @@
+MenuBackground.txt
+0 0
+1 1
+0
+ButtonNewGame.txt
+350 35
+1 1
+0
+ButtonHowToPlay.txt
+350 -55
+1 1
+0
+ButtonOptions.txt
+350 -145
+1 1
+0
+ButtonCredits.txt
+350 -235
+1 1
+0
+ButtonQuit.txt
+350 -325
+1 1
+0

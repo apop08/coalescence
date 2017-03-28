@@ -1,0 +1,17 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Test//hud.png
+1024 768
+1 1 1 1
+1
+PhysBody
+0 0
+4096
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

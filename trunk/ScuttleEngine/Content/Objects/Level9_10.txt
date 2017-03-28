@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//Level9//10.png
+1024 256
+1 1 1 1
+55

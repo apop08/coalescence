@@ -1,0 +1,250 @@
+Player3.txt
+1000 100
+.2 .2
+0
+0
+HUD.txt
+0 0
+1.02 1.02
+0
+0
+Block.txt
+-3 50
+.5 .5
+0
+0
+BlockLiquid.txt
+-4 50
+.5 .5
+0
+1
+BlockGas.txt
+-5 50
+.5 .5
+0
+2
+Block.txt
+4 100
+1 1
+0
+0
+BlockGas.txt
+19 250
+1 1
+0
+2
+BlockGas.txt
+52 200
+0.5 0.5
+0
+2
+BlockGas.txt
+53 200
+0.5 0.5
+0
+2
+BlockGas.txt
+54 200
+0.5 0.5
+0
+2
+BlockGas.txt
+55 200
+0.5 0.5
+0
+2
+BlockLiquid.txt
+20 412
+.5 .5
+0
+1
+BlockGas.txt
+69 100
+1 1
+0
+2
+BlockGas.txt
+79 150
+1 1
+0
+2
+Block.txt
+81 250
+1 1
+0
+0
+SUPERBLOCK2.txt
+7 -150
+.5 .5
+0
+0
+SUPERBLOCK.txt
+0 -500
+10000 5
+0
+0
+SUPERBLOCK.txt
+-4 350
+2 .5
+0
+0
+SUPERBLOCK.txt
+-6 0
+1 5000
+0
+0
+SUPERBLOCK.txt
+5 50
+.5 2
+0
+0
+SUPERBLOCK.txt
+12 -100
+5 1.5
+0
+0
+SUPERBLOCK2.txt
+24 28
+.5 .5
+0
+0
+SUPERBLOCK2.txt
+22 346
+.5 .5
+0
+0
+SUPERBLOCK.txt
+26 252
+3 4
+0
+0
+SUPERBLOCK.txt
+25 -100
+5 1.5
+0
+0
+SUPERBLOCK.txt
+20 250
+1.5 2
+0
+0
+SUPERBLOCK.txt
+18 640
+1.5 5
+0
+0
+SUPERBLOCK.txt
+4 250
+2 .5
+0
+0
+SUPERBLOCK.txt
+32 0
+6 4
+0
+0
+SUPERBLOCK.txt
+45 0
+4 4
+0
+0
+SUPERBLOCK.txt
+54 350
+5 0.5
+0
+0
+SUPERBLOCK.txt
+60 -100
+5 4
+0
+0
+SUPERBLOCK.txt
+66 260
+3.2 4
+0
+0
+SUPERBLOCK.txt
+71 274
+2 4
+0
+0
+SUPERBLOCK.txt
+60 340
+3 2
+0
+0
+SUPERBLOCK.txt
+65 -150
+3.8 0.5
+0
+0
+SUPERBLOCK.txt
+70 -150
+3.8 0.5
+0
+0
+SUPERBLOCK2.txt
+68 -175
+0.25 0.25
+0
+0
+SUPERBLOCK.txt
+76 -54
+3 2
+0
+0
+SUPERBLOCK.txt
+81 -120
+4 1
+0
+0
+SUPERBLOCK.txt
+79 464
+2 4
+0
+0
+SUPERBLOCK.txt
+82 540
+2 2
+0
+0
+SUPERBLOCK.txt
+84 0
+4 2
+0
+0
+SUPERBLOCK.txt
+82 -58
+3 2
+0
+0
+Background.txt
+0 0
+2 2
+0
+0
+Background.txt
+91 0
+2 2
+0
+0
+Background.txt
+68 0
+2 2
+0
+0
+Background.txt
+45 0
+2 2
+0
+0
+Background.txt
+22 0
+2 2
+0
+0
+Background.txt
+-22 0
+2 2
+0
+0

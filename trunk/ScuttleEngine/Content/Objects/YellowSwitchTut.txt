@@ -1,0 +1,12 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//YellowSwitchTut.png
+200 150
+1 1 1 0
+-3
+TutBox
+15 200
+250

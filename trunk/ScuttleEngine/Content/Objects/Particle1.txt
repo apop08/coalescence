@@ -1,0 +1,10 @@
+Transform
+0 0
+.3 .3
+0
+Particle
+Sprite
+..//Content//Textures//BlockGasPart.png
+40 40
+1 1 1 1
+11

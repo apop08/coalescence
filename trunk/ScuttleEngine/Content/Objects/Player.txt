@@ -1,0 +1,12 @@
+Transform
+0 0
+1 1
+0
+Camera
+Sprite
+..//Content//Textures//House.png
+369 336
+1 1 1 1
+PhysBody
+184.5 168
+1

@@ -1,0 +1,537 @@
+0.65
+Player01
+Player3.txt
+-22 119.982
+0.5 0.5
+0
+127
+HUD01
+HUD.txt
+-43.8065 269.982
+1.02 1.02
+0
+0
+SB00
+SUPERBLOCK.txt
+531 -68
+10 2
+0
+0
+SB01
+SUPERBLOCK.txt
+-429 341
+5 8.4
+0
+0
+SB02
+SUPERBLOCK.txt
+1491 341
+5 8.4
+0
+0
+SB03
+SUPERBLOCK.txt
+531 700
+10 2
+0
+0
+SB04
+SUPERBLOCK.txt
+550 324
+0.5 1.7
+0
+0
+Door01
+BlockWin.txt
+400 156
+1 1
+0
+0
+Door00
+EntranceDoor.txt
+-20 156
+1 1
+0
+0
+BiFan01
+Fan2.txt
+1146 507
+1 1
+90
+0
+Switch01
+Switch.txt
+150 59.1
+1 1
+0
+0
+SB05
+SUPERBLOCK.txt
+690 401
+1.7 0.5
+0
+0
+Turret01
+Turret.txt
+700 334
+0.2 0.2
+-180
+0
+60
+Turret02
+Turret.txt
+1135 375
+0.2 0.2
+-270
+0
+60
+Element01
+Block.txt
+1118.66 111.182
+0.8 0.8
+0
+0
+DefaultObjectName
+BoxPlatformLong.txt
+692 401
+0.215 0.25
+0
+0
+DefaultObjectName
+BoxPlatformLong.txt
+550 324
+0.2125 0.25
+90
+0
+DefaultObjectName
+Corner.txt
+-237 -68
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-237 188
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-237 444
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+19 -68
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+275 -68
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+531 -68
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+787 -68
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+1043 -68
+-1 -1
+0
+0
+DefaultObjectName
+Corner.txt
+1299 -68
+1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+1299 188
+1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+1299 444
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1299 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1043 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+787 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+531 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+275 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+19 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-237 700
+1 -1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+147 314
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+659 314
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+1171 314
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+147 314
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+659 314
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+1171 314
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 -68
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 188
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 444
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 -68
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 188
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 444
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1299 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1043 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+787 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+531 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+275 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+19 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-237 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1299 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1043 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+787 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+531 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+275 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+19 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-237 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-493 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-749 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 -68
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 188
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 444
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1555 956
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 -324
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 -68
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 188
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 444
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 700
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1811 956
+1 -1
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+720 634
+1 0.95
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+-175 634
+1 0.95
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+-1068 634
+1 0.95
+0
+0
+DefaultObjectName
+BaseVent.txt
+1226 634
+1 1
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+1730 634
+1 0.95
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+1226 1140
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+403 442
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+915 442
+1 1
+0
+0
+DefaultObjectName
+Vent.txt
+915 109
+0.75 0.75
+0
+0
+DefaultObjectName
+TurretTut.txt
+0 0
+1 1
+0
+1

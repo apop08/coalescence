@@ -1,0 +1,18 @@
+Transform
+0 0
+1 1
+0
+Door
+Sprite
+..//Content//Textures//Door.png
+110 258
+1 1 1 1
+100
+PhysBody
+55 129
+8
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

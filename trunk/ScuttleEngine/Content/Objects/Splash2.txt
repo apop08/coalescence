@@ -1,0 +1,10 @@
+Transform
+1000 150
+1 1
+0
+Camera
+Sprite
+..//Content//Textures//DPlogoAni.png
+1024 1024
+1 1 1 1
+49

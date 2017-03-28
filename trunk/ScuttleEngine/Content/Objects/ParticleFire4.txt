@@ -1,0 +1,10 @@
+Transform
+0 0
+1 1
+0
+Particle
+Sprite
+..//Content//Textures//BETTERFIRE2.png
+16 16
+1 1 1 1
+-1

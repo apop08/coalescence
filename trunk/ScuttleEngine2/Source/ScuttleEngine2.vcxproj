@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{79ECCBA4-E69E-4F3C-A4B5-BE339449D024}</ProjectGuid>
+    <RootNamespace>ScuttleEngine2</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IntDir>$(SolutionDir)$(Configuration)\</IntDir>
+    <IncludePath>External\DirectX\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>External\DirectX\lib;$(LibraryPath)</LibraryPath>
+    <SourcePath>$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IntDir>$(SolutionDir)$(Configuration)\</IntDir>
+    <IncludePath>External\DirectX\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>External\DirectX\lib;$(LibraryPath)</LibraryPath>
+    <SourcePath>$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>Precompiled.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <GenerateXMLDocumentationFiles>true</GenerateXMLDocumentationFiles>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>Precompiled.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <GenerateXMLDocumentationFiles>true</GenerateXMLDocumentationFiles>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\Containers\Containers.h" />
+    <ClInclude Include="Engine\Containers\ObjectLinkedList.h" />
+    <ClInclude Include="Engine\Core\Core.h" />
+    <ClInclude Include="Engine\Headers\WindowsIncludes.h" />
+    <ClInclude Include="Engine\System\ISystem.h" />
+    <ClInclude Include="Engine\System\Message.h" />
+    <ClInclude Include="Engine\Utility\RefCounter.h" />
+    <ClInclude Include="Engine\Utility\Timer.h" />
+    <ClInclude Include="External\DirectX\inc\D3D10.h" />
+    <ClInclude Include="External\DirectX\inc\D3D10effect.h" />
+    <ClInclude Include="External\DirectX\inc\d3d10misc.h" />
+    <ClInclude Include="External\DirectX\inc\d3d10sdklayers.h" />
+    <ClInclude Include="External\DirectX\inc\D3D10shader.h" />
+    <ClInclude Include="External\DirectX\inc\D3D10_1.h" />
+    <ClInclude Include="External\DirectX\inc\D3D10_1shader.h" />
+    <ClInclude Include="External\DirectX\inc\D3D11.h" />
+    <ClInclude Include="External\DirectX\inc\D3D11SDKLayers.h" />
+    <ClInclude Include="External\DirectX\inc\D3D11Shader.h" />
+    <ClInclude Include="External\DirectX\inc\D3Dcommon.h" />
+    <ClInclude Include="External\DirectX\inc\D3Dcompiler.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX10.h" />
+    <ClInclude Include="External\DirectX\inc\d3dx10async.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX10core.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX10math.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX10mesh.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX10tex.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX11.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX11async.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX11core.h" />
+    <ClInclude Include="External\DirectX\inc\D3DX11tex.h" />
+    <CustomBuild Include="Precompiled.h">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Precompiled Header.</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Precompiled Header.</Message>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="External\DirectX\inc\D3DX10math.inl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="External\DirectX\lib\d3d11.lib" />
+    <Library Include="External\DirectX\lib\d3dx11.lib" />
+    <Library Include="External\DirectX\lib\d3dx11d.lib" />
+    <Library Include="External\DirectX\lib\DxErr.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Engine\Core\Core.cpp" />
+    <ClCompile Include="Game\WinMain.cpp" />
+    <ClCompile Include="Precompiled.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Precompiled.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Precompiled.h</PrecompiledHeaderFile>
+    </ClCompile>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

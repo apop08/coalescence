@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//Mask.png
+256 256
+1 1 1 1
+50

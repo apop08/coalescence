@@ -1,0 +1,60 @@
+Transform
+0 0
+1 1
+0
+CompSprite
+..//Content//Textures//hud.png
+1024 768
+1 1 1 0
+0 0
+1 1
+0
+..//Content//Textures//HealthBarBackground.png
+1280 47
+1 1 1 1
+0 -350
+0.2 .5
+0
+..//Content//Textures//HealthBar.png
+1226 37
+1 1 1 1
+0 -350
+.2 .4
+0
+..//Content//Textures//HudRed.png
+400 256
+1 1 1 0
+-390 -310
+0.5 0.5
+0
+..//Content//Textures//HudYellow.png
+400 256
+1 1 1 0
+-390 -310
+0.5 0.5
+0
+..//Content//Textures//HudBlue.png
+400 256
+1 1 1 1
+-390 -310
+0.5 0.5
+0
+..//Content//Textures//HealthBarText.png
+400 76
+1 1 1 1
+0 -320
+0.3 0.3
+0
+endlist
+0
+SoundNode
+..//Content//Audio//ModeChange.mp3
+endlist
+PhysBody
+0 0
+4096
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

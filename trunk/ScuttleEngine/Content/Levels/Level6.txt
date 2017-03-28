@@ -1,0 +1,1489 @@
+0.35
+Player01
+Player3.txt
+1260.09 119.961
+0.5 0.5
+0
+127
+HUD01
+HUD.txt
+1260.09 269.961
+1.02 1.02
+0
+0
+SB00
+SUPERBLOCK.txt
+-404 -324
+4 6
+0
+0
+SB01
+SUPERBLOCK.txt
+-788 60
+2 12
+0
+0
+SB02
+SUPERBLOCK.txt
+1516 60
+2 12
+0
+0
+SB03
+SUPERBLOCK.txt
+364 700
+16 2
+0
+0
+Door01
+BlockWin.txt
+1020 156
+1 1
+0
+0
+Door00
+EntranceDoor.txt
+1260 156
+1 1
+0
+0
+BiFan01
+Fan2.txt
+-635 506
+1 1
+-90
+0
+Switch01
+Switch.txt
+-395 59.9
+1 1
+0
+0
+Switch02
+Switch2.txt
+800 59.1
+1 1
+0
+0
+Element01
+Block.txt
+680 111.137
+0.8 0.8
+0
+0
+SB05
+SUPERBLOCK.txt
+1168 508
+3.45 1
+0
+0
+SB06
+SUPERBLOCK.txt
+1004 -324
+6 6
+0
+0
+Element02
+BlockGas.txt
+1320 350
+0.8 0.8
+0
+2
+Element03
+Block.txt
+-208 111.137
+0.8 0.8
+0
+0
+KillVolume01
+KillZone.txt
+236 -88
+5000 80
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 700
+-1 1
+0
+0
+DefaultObjectName
+Corner.txt
+-788 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+-532 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+-276 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+-20 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+236 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+492 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+748 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+1004 700
+-1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+1260 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 700
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-20 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+236 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+492 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 956
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-20 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+236 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+492 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 1212
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-20 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+236 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+492 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 1468
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-20 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+236 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+492 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 1724
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 444
+-1 1
+0
+0
+DefaultObjectName
+Siding.txt
+-788 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 188
+-1 1
+0
+0
+DefaultObjectName
+Siding.txt
+-788 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1556 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1300 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-1044 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-788 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-532 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+-276 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 -68
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 -324
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 -580
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 -836
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 -1092
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+748 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1004 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1260 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 -1348
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 188
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1516 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1772 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2028 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2284 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2540 444
+-1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+2796 444
+-1 1
+0
+0
+DefaultObjectName
+BoxPlatform.txt
+1168 508
+1.73 0.5
+0
+0
+DefaultObjectName
+BaseVent.txt
+-208 0
+1 1
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+-711 0
+1 0.95
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+-1604 0
+1 0.95
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+-209 -500
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+-209 -1395
+1 1
+0
+0
+DefaultObjectName
+BaseVent.txt
+680 0
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+680 -505
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+680 -1400
+1 1
+0
+0
+DefaultObjectName
+HorizontalPipe.txt
+1064 0
+0.73 0.95
+0
+0
+DefaultObjectName
+BaseVent.txt
+1448 0
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+1448 500
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+1448 1393
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+1132 316
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+620 316
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+108 316
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+-404 316
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+-148 444
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+364 444
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+876 444
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+1132 316
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+620 316
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+108 316
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+-404 316
+1 1
+0
+0
+DefaultObjectName
+Pit.txt
+108 -196
+1 1
+0
+0
+DefaultObjectName
+Pit.txt
+620 -196
+1 1
+0
+0
+DefaultObjectName
+Hazardous.txt
+240 60
+1 1
+0
+0
+DefaultObjectName
+Pit_Gradient.txt
+256 60
+2 1
+0
+0
+DefaultObjectName
+Pit_Bottom.txt
+256 -452
+2 1
+0
+0
+DefaultObjectName
+Vent.txt
+876 111
+0.75 0.75
+0
+0
+DefaultObjectName
+GreenSwitchTut.txt
+0 0
+1 1
+0
+1

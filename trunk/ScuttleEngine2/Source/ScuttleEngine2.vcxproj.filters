@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{50ff365b-c7c3-4e15-92fc-ecd86ef03016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{471d4f2e-9b2f-4292-aac0-92eff479edb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External">
+      <UniqueIdentifier>{25cc3421-79bd-47d7-ba3c-46e85db7f18f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\DirectX">
+      <UniqueIdentifier>{5d2fdaa6-a355-4e39-9e4e-292d7f5576e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\DirectX\lib">
+      <UniqueIdentifier>{f867f1db-4717-422d-a244-c00af8b55a0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\DirectX\inc">
+      <UniqueIdentifier>{5ed5040c-c8a8-4b1b-84fd-ce3172878b84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Systems">
+      <UniqueIdentifier>{acf24626-5475-4e94-bbad-0d2cca4d1596}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Core">
+      <UniqueIdentifier>{23a7124b-ce1a-47f5-9a09-a12f3562b307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Composition">
+      <UniqueIdentifier>{10c02ee3-467c-4da5-9f79-a75060de02e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Containers">
+      <UniqueIdentifier>{fda31395-2055-4631-93c7-36dd4c1b4ae8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Debug">
+      <UniqueIdentifier>{fa1ad0cf-4c99-4a49-9289-596c6cb5cf9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Factory">
+      <UniqueIdentifier>{513381be-8d24-4bfa-91cc-626db8961ab9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Headers">
+      <UniqueIdentifier>{52cb051c-56db-4c24-a642-e0724d704ae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Serialization">
+      <UniqueIdentifier>{4dc2109a-7735-4993-93c2-0ba82da5dada}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{c3137632-2297-4da4-b817-664bbd8b9e7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\System">
+      <UniqueIdentifier>{cb62d505-3479-46e4-a7bf-547f9b786678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Utility">
+      <UniqueIdentifier>{6d0847ef-05b5-4ff3-b066-713232d9ba25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="External\DirectX\inc\D3DX11tex.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D10.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D10_1.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D10_1shader.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D10effect.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3d10misc.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3d10sdklayers.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D10shader.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D11.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D11SDKLayers.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3D11Shader.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3Dcommon.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3Dcompiler.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX10.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx10async.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX10core.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX10math.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX10mesh.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX10tex.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX11.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX11async.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\D3DX11core.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Headers\WindowsIncludes.h">
+      <Filter>Engine\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Core\Core.h">
+      <Filter>Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\System\ISystem.h">
+      <Filter>Engine\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\System\Message.h">
+      <Filter>Engine\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Containers\Containers.h">
+      <Filter>Engine\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Utility\Timer.h">
+      <Filter>Engine\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Utility\RefCounter.h">
+      <Filter>Engine\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Containers\ObjectLinkedList.h">
+      <Filter>Engine\Containers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="External\DirectX\inc\D3DX10math.inl">
+      <Filter>External\DirectX\inc</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="External\DirectX\lib\d3d11.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+    <Library Include="External\DirectX\lib\d3dx11.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+    <Library Include="External\DirectX\lib\d3dx11d.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+    <Library Include="External\DirectX\lib\DxErr.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game\WinMain.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Core\Core.cpp">
+      <Filter>Engine\Core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

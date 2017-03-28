@@ -1,0 +1,896 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="BaseEngine">
+      <UniqueIdentifier>{73c9d657-2fa6-4d92-88a0-7b47756f9c67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Serialization">
+      <UniqueIdentifier>{6f0f5158-4e92-41f6-a714-d13342c068f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Headers">
+      <UniqueIdentifier>{4249fcb7-e9eb-4bd2-92d4-628e6aabc131}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Debug">
+      <UniqueIdentifier>{308f5535-5067-44be-b8ae-3398e20ed7f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Engine">
+      <UniqueIdentifier>{176d0a24-beb9-4ac8-ac4f-b264d8774012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Core">
+      <UniqueIdentifier>{40eb3084-3640-47ab-b1d8-7316808d9f68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Composition">
+      <UniqueIdentifier>{58f3983d-f5cb-441e-a818-2abdc8036cbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Transform">
+      <UniqueIdentifier>{f2f1cab9-cfd7-4ffe-a50e-f06fed22a960}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Containers">
+      <UniqueIdentifier>{831c2337-e0f5-4775-9883-1db878a6f9e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\MemoryManager">
+      <UniqueIdentifier>{00dc5199-72b5-4950-a392-a078e77633ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\StateMgr">
+      <UniqueIdentifier>{f619a8e2-dfcd-4c12-bd7c-fd5469b2e9be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseEngine\Factory">
+      <UniqueIdentifier>{b1bfd377-abb2-4b2b-9762-28f5b36a8b83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{24c3d5ad-bfd7-4ab2-a7ee-44b3bb890f1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems">
+      <UniqueIdentifier>{38267d79-18b0-4139-b75b-c26a25f2d09d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics">
+      <UniqueIdentifier>{151620d9-824c-4b79-b4eb-38c25f0bfb75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\Components">
+      <UniqueIdentifier>{f6f3aebe-d7b8-4a82-971d-d28a7823bfac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\Components\Camera">
+      <UniqueIdentifier>{44da0b68-6597-418e-ad49-ba7fdd399fe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\Components\Sprite">
+      <UniqueIdentifier>{5546496b-b3a8-4383-a0e8-234334a80c1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\Components\CompSprite">
+      <UniqueIdentifier>{d8899e48-e8f0-496a-b3ef-e3564fb85081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\Utility">
+      <UniqueIdentifier>{eb3af582-214c-4944-9bfa-9a6f576b248e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\System">
+      <UniqueIdentifier>{02feeedf-c2d4-401a-9243-4648975a2769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\Interface">
+      <UniqueIdentifier>{623e3498-03f4-4be4-8921-11712288119b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\QuadBatcher">
+      <UniqueIdentifier>{2f8dbe67-6903-4077-8126-c0e7c6cce7cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Graphics\Content">
+      <UniqueIdentifier>{cfd0e02a-a031-452d-ae5e-ec96f5bdbd6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Audio">
+      <UniqueIdentifier>{2dcf3bd7-397a-4c5d-8409-a969de58682b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Audio\System">
+      <UniqueIdentifier>{ab3faaa5-f08f-4b50-9f21-307e21003251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Audio\Components">
+      <UniqueIdentifier>{42594e8d-ce9f-4c36-aa52-9ebd80446281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Audio\Components\SoundNode">
+      <UniqueIdentifier>{a27655c4-b97e-4d44-9cdf-470ffc18e53d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Audio\Components\AttenuatedSoundNode">
+      <UniqueIdentifier>{93f6256d-a818-4696-83b6-b1007217e392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Debug">
+      <UniqueIdentifier>{828f850c-72f2-4426-9cdd-1a39a54d9d50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Debug\System">
+      <UniqueIdentifier>{be74c5c0-38b8-451f-997e-c6280b6c2c45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Physics">
+      <UniqueIdentifier>{c25d6000-b895-4d20-8a34-a565b6d4dc52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Physics\System">
+      <UniqueIdentifier>{6387f991-41a1-44e8-b1c4-4fad819d3d1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Physics\Components">
+      <UniqueIdentifier>{0ab01e5e-c87b-4f36-b22c-22fd2654a701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Physics\Components\PhysBody">
+      <UniqueIdentifier>{ef2844e7-b3fd-43a9-9351-9b1ae9a09773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Physics\Components\Region">
+      <UniqueIdentifier>{45dbadb1-4033-4403-ad28-b3fcdf377415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Physics\Force">
+      <UniqueIdentifier>{e82118ed-bb63-4d83-86fd-675cd61015fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Particles">
+      <UniqueIdentifier>{eb5c7d10-cfa9-4104-9333-b7d26c2c2991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\Particles\System">
+      <UniqueIdentifier>{df108828-6345-4089-923e-d4850f4d3b07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic">
+      <UniqueIdentifier>{564d8cf2-5c33-4513-b570-65c04440c760}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\System">
+      <UniqueIdentifier>{e7bb08d2-7508-430d-9927-d0a1edccc3f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components">
+      <UniqueIdentifier>{2e4dd1b9-0276-40a1-a0f4-415c55847aca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Player">
+      <UniqueIdentifier>{b9c7ce32-ed2d-499b-bc98-4022ccda9c76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Bullet">
+      <UniqueIdentifier>{1ebda2b5-6286-4307-9c86-044c3be2e82e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Block">
+      <UniqueIdentifier>{31b92328-9bff-4483-ad67-97405738fa72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Static">
+      <UniqueIdentifier>{55bb4510-10d8-4c45-846c-f813800e7042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons">
+      <UniqueIdentifier>{7fda500a-4a05-4f9a-884c-280cae4877d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bNewGame">
+      <UniqueIdentifier>{e3985ab1-b215-4187-928d-7ef8bbde549d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bHowToPlay">
+      <UniqueIdentifier>{ea0ba7ea-ce08-42c6-9b62-9b71a13b6c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bOptions">
+      <UniqueIdentifier>{52eb6de9-048c-46e2-9e25-fd240d7653eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bCredits">
+      <UniqueIdentifier>{558fc4a9-18d1-4717-b984-f22bd1b70c07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bQuit">
+      <UniqueIdentifier>{043066f3-904c-434b-83a0-a5a39e9b9f43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bResume">
+      <UniqueIdentifier>{cd6c6f21-96a7-4e2a-bd47-989e38bcd2fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bRestart">
+      <UniqueIdentifier>{af3934a7-e457-4e81-a46a-7a2af9ca738a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bMainMenu">
+      <UniqueIdentifier>{f06a0965-f7af-42c8-8acc-7fe37f0b1f20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bVolume">
+      <UniqueIdentifier>{4f21bcee-f893-4ff4-a708-383a6f030307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bResolution">
+      <UniqueIdentifier>{e3d830be-c872-4a44-a8cd-99b807373682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bBack">
+      <UniqueIdentifier>{abf25d47-afbb-46a2-b3e3-210905753aa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bYes">
+      <UniqueIdentifier>{cf401f2c-20d8-4054-a134-fe3cdcc8f27a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bNo">
+      <UniqueIdentifier>{009ead5d-5068-4f23-9f3a-d9a29fbe2d95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bFullscreen">
+      <UniqueIdentifier>{90c1d45b-26fb-4e82-8d4c-e648086b3e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bArrowLeft">
+      <UniqueIdentifier>{7a11c080-d706-4e9e-b33a-fbe8a840cf3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bArrowRight">
+      <UniqueIdentifier>{334d20d9-6061-4f0e-bf54-5c417428bdd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Buttons\bLevel">
+      <UniqueIdentifier>{98ad5320-afc7-4520-b61b-12d2e6fa321e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\BlockWin">
+      <UniqueIdentifier>{f9eb179b-4fd4-48e4-80eb-3147a8b652fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\TutBox">
+      <UniqueIdentifier>{f6f0d836-e299-4f48-86a5-3baa62a0d9b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Turret">
+      <UniqueIdentifier>{7e7c81a8-e3e9-44f9-81b5-274b2e8949e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Rocket">
+      <UniqueIdentifier>{5b24594b-67bb-4e4c-adb3-fe2b50bf515f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\EditCam">
+      <UniqueIdentifier>{f3676d5c-2abc-4aac-8887-14c0a148f6d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\LevelPanCam">
+      <UniqueIdentifier>{44580c63-fdab-4e47-a88d-0866cfd40b80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Switch">
+      <UniqueIdentifier>{c110d094-68b7-4c6b-93e6-a97f9d53559e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\BiDirectionalFan">
+      <UniqueIdentifier>{91eeee63-1ce0-435b-8389-5d7f7e93867f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\BrokenPipe">
+      <UniqueIdentifier>{3f420591-c9b9-4426-b6ee-a3560c76acb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Checkpoint">
+      <UniqueIdentifier>{72e5e46e-1c7d-4265-8775-bc7a23d7f57d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\KillZone">
+      <UniqueIdentifier>{f6bbb1a3-1fb9-4e85-b363-d9d1229706af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\CreditsText">
+      <UniqueIdentifier>{551838a7-4fbf-4e4c-ba19-f5b83576575f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\Fan">
+      <UniqueIdentifier>{a371a96d-ed56-49da-87e3-2b265f31edb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Components\EntranceDoor">
+      <UniqueIdentifier>{7c1aca32-1e7c-4999-a955-b59d288f409a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameLogic\Interface">
+      <UniqueIdentifier>{8f543bf2-9fe7-4fee-b8cd-d93586350f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{b20f13d1-0c45-4dc0-9c22-0fdca4d744b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External">
+      <UniqueIdentifier>{1a039f4f-7f3c-492a-886d-090834242abd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\FMOD">
+      <UniqueIdentifier>{f9a02cf6-3bef-478f-8ce6-17caa43226fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\FMOD\bin">
+      <UniqueIdentifier>{85339af4-7499-4c5e-a84e-4d69f34a9e5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\FMOD\inc">
+      <UniqueIdentifier>{995c6088-f9da-42c5-8824-b4a7b48f6ba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\FMOD\lib">
+      <UniqueIdentifier>{2c0b75c5-2027-483a-8125-24f147112845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\DirectX">
+      <UniqueIdentifier>{e5e9d2be-6cff-41af-9b54-ef7740b0ca04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\DirectX\inc">
+      <UniqueIdentifier>{9c6b6514-49dd-4225-8c52-ddaf0691440d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\DirectX\lib">
+      <UniqueIdentifier>{2b685f1e-12e1-417b-afde-7886bd3e3e68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\TinyXML">
+      <UniqueIdentifier>{1899940a-288e-42c2-a7e0-79bd9e2d9bba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\TinyXML\inc">
+      <UniqueIdentifier>{84a9ad90-02ff-457a-b3ef-f9e5c77bf220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\AntTweakBar">
+      <UniqueIdentifier>{c38605eb-3a9e-4257-9c91-18cc81a4971a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\AntTweakBar\bin">
+      <UniqueIdentifier>{e647ad4e-bb5c-4761-a9e1-c532913c0f29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\AntTweakBar\inc">
+      <UniqueIdentifier>{248f86a2-6e01-4b86-b50f-705d26f1b7c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\AntTweakBar\lib">
+      <UniqueIdentifier>{34ebecd4-792d-4c57-bf9e-ce40db0274ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Editor">
+      <UniqueIdentifier>{dbe6d265-42a7-4d22-ba37-59c3b0c54395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Editor\Debug">
+      <UniqueIdentifier>{8217529f-cedf-4410-b2c6-ea192c1cab30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Editor\System">
+      <UniqueIdentifier>{ca45358a-9662-4248-8585-4146831adec2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Serialization.h">
+      <Filter>BaseEngine\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="TextSerialization.h">
+      <Filter>BaseEngine\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="XMLSerialization.h">
+      <Filter>BaseEngine\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="VMath.h">
+      <Filter>BaseEngine\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowsIncludes.h">
+      <Filter>BaseEngine\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugDraw.h">
+      <Filter>BaseEngine\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentTypeIds.h">
+      <Filter>BaseEngine\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>BaseEngine\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>BaseEngine\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>BaseEngine\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>BaseEngine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>BaseEngine\Composition</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentCreator.h">
+      <Filter>BaseEngine\Composition</Filter>
+    </ClInclude>
+    <ClInclude Include="Composition.h">
+      <Filter>BaseEngine\Composition</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>BaseEngine\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Containers.h">
+      <Filter>BaseEngine\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLinkedList.h">
+      <Filter>BaseEngine\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryTemplate.h">
+      <Filter>BaseEngine\MemoryManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectAllocator.h">
+      <Filter>BaseEngine\MemoryManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateList.h">
+      <Filter>BaseEngine\StateMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateMgr.h">
+      <Filter>BaseEngine\StateMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Factory.h">
+      <Filter>BaseEngine\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Systems\Graphics\Components\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Systems\Graphics\Components\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="CompSprite.h">
+      <Filter>Systems\Graphics\Components\CompSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="CompSpriteComponent.h">
+      <Filter>Systems\Graphics\Components\CompSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXIncludes.h">
+      <Filter>Systems\Graphics\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexTypes.h">
+      <Filter>Systems\Graphics\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Systems\Graphics\System</Filter>
+    </ClInclude>
+    <ClInclude Include="IDrawable.h">
+      <Filter>Systems\Graphics\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadBatcher.h">
+      <Filter>Systems\Graphics\QuadBatcher</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>Systems\Audio\System</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundNode.h">
+      <Filter>Systems\Audio\Components\SoundNode</Filter>
+    </ClInclude>
+    <ClInclude Include="AttenuatedSoundNode.h">
+      <Filter>Systems\Audio\Components\AttenuatedSoundNode</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugConsole.h">
+      <Filter>Systems\Debug\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Systems\Physics\System</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysVars.h">
+      <Filter>Systems\Physics\System</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysBody.h">
+      <Filter>Systems\Physics\Components\PhysBody</Filter>
+    </ClInclude>
+    <ClInclude Include="Regions.h">
+      <Filter>Systems\Physics\Components\Region</Filter>
+    </ClInclude>
+    <ClInclude Include="Force.h">
+      <Filter>Systems\Physics\Force</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>Systems\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleEmitter.h">
+      <Filter>Systems\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleManager.h">
+      <Filter>Systems\Particles\System</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Systems\GameLogic\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Systems\GameLogic\Components\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Systems\GameLogic\Components\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>Systems\GameLogic\Components\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="Static.h">
+      <Filter>Systems\GameLogic\Components\Static</Filter>
+    </ClInclude>
+    <ClInclude Include="bNewGame.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bNewGame</Filter>
+    </ClInclude>
+    <ClInclude Include="bHowToPlay.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bHowToPlay</Filter>
+    </ClInclude>
+    <ClInclude Include="bOptions.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bOptions</Filter>
+    </ClInclude>
+    <ClInclude Include="bCredits.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bCredits</Filter>
+    </ClInclude>
+    <ClInclude Include="bQuit.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bQuit</Filter>
+    </ClInclude>
+    <ClInclude Include="bResume.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bResume</Filter>
+    </ClInclude>
+    <ClInclude Include="bRestart.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bRestart</Filter>
+    </ClInclude>
+    <ClInclude Include="bMainMenu.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bMainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="bVolume.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bVolume</Filter>
+    </ClInclude>
+    <ClInclude Include="bResolution.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bResolution</Filter>
+    </ClInclude>
+    <ClInclude Include="bBack.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bBack</Filter>
+    </ClInclude>
+    <ClInclude Include="bYes.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bYes</Filter>
+    </ClInclude>
+    <ClInclude Include="bNo.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bNo</Filter>
+    </ClInclude>
+    <ClInclude Include="bFullscreen.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bFullscreen</Filter>
+    </ClInclude>
+    <ClInclude Include="bArrowLeft.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bArrowLeft</Filter>
+    </ClInclude>
+    <ClInclude Include="bArrowRight.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bArrowRight</Filter>
+    </ClInclude>
+    <ClInclude Include="bLevel.h">
+      <Filter>Systems\GameLogic\Components\Buttons\bLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockWin.h">
+      <Filter>Systems\GameLogic\Components\BlockWin</Filter>
+    </ClInclude>
+    <ClInclude Include="TutBox.h">
+      <Filter>Systems\GameLogic\Components\TutBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Turret.h">
+      <Filter>Systems\GameLogic\Components\Turret</Filter>
+    </ClInclude>
+    <ClInclude Include="Rocket.h">
+      <Filter>Systems\GameLogic\Components\Rocket</Filter>
+    </ClInclude>
+    <ClInclude Include="EditCam.h">
+      <Filter>Systems\GameLogic\Components\EditCam</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelPanCam.h">
+      <Filter>Systems\GameLogic\Components\LevelPanCam</Filter>
+    </ClInclude>
+    <ClInclude Include="Switch.h">
+      <Filter>Systems\GameLogic\Components\Switch</Filter>
+    </ClInclude>
+    <ClInclude Include="BiDirectionalFan.h">
+      <Filter>Systems\GameLogic\Components\BiDirectionalFan</Filter>
+    </ClInclude>
+    <ClInclude Include="BrokenPipe.h">
+      <Filter>Systems\GameLogic\Components\BrokenPipe</Filter>
+    </ClInclude>
+    <ClInclude Include="Checkpoint.h">
+      <Filter>Systems\GameLogic\Components\Checkpoint</Filter>
+    </ClInclude>
+    <ClInclude Include="KillZone.h">
+      <Filter>Systems\GameLogic\Components\KillZone</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditsText.h">
+      <Filter>Systems\GameLogic\Components\CreditsText</Filter>
+    </ClInclude>
+    <ClInclude Include="Fan.h">
+      <Filter>Systems\GameLogic\Components\Fan</Filter>
+    </ClInclude>
+    <ClInclude Include="EntranceDoor.h">
+      <Filter>Systems\GameLogic\Components\EntranceDoor</Filter>
+    </ClInclude>
+    <ClInclude Include="ILogical.h">
+      <Filter>Systems\GameLogic\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="External\FMOD\inc\fmod.h">
+      <Filter>External\FMOD\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\FMOD\inc\fmod.hpp">
+      <Filter>External\FMOD\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\FMOD\inc\fmod_codec.h">
+      <Filter>External\FMOD\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\FMOD\inc\fmod_dsp.h">
+      <Filter>External\FMOD\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\FMOD\inc\fmod_errors.h">
+      <Filter>External\FMOD\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\FMOD\inc\fmod_memoryinfo.h">
+      <Filter>External\FMOD\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\FMOD\inc\fmod_output.h">
+      <Filter>External\FMOD\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3d9.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3d9caps.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3d9types.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9anim.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9core.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9effect.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9math.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9mesh.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9shader.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9shape.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9tex.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\DirectX\inc\d3dx9xof.h">
+      <Filter>External\DirectX\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\TinyXML\inc\tinystr.h">
+      <Filter>External\TinyXML\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\TinyXML\inc\tinyxml.h">
+      <Filter>External\TinyXML\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="External\AntTweakBar\inc\AntTweakBar.h">
+      <Filter>External\AntTweakBar\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugBars.h">
+      <Filter>Editor\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="EditorBar.h">
+      <Filter>Editor\System</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TextLoader.cpp">
+      <Filter>BaseEngine\Serialization</Filter>
+    </ClCompile>
+    <ClCompile Include="TextSaver.cpp">
+      <Filter>BaseEngine\Serialization</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLSerialization.cpp">
+      <Filter>BaseEngine\Serialization</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugDraw.cpp">
+      <Filter>BaseEngine\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Message.cpp">
+      <Filter>BaseEngine\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>BaseEngine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Composition.cpp">
+      <Filter>BaseEngine\Composition</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>BaseEngine\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectAllocator.cpp">
+      <Filter>BaseEngine\MemoryManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateMgr.cpp">
+      <Filter>BaseEngine\StateMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory.cpp">
+      <Filter>BaseEngine\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Systems\Graphics\Components\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Systems\Graphics\Components\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="CompSprite.cpp">
+      <Filter>Systems\Graphics\Components\CompSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Systems\Graphics\System</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadBatcher.cpp">
+      <Filter>Systems\Graphics\QuadBatcher</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Systems\Audio\System</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundNode.cpp">
+      <Filter>Systems\Audio\Components\SoundNode</Filter>
+    </ClCompile>
+    <ClCompile Include="AttenuatedSoundNode.cpp">
+      <Filter>Systems\Audio\Components\AttenuatedSoundNode</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugConsole.cpp">
+      <Filter>Systems\Debug\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
+      <Filter>Systems\Physics\System</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysBody.cpp">
+      <Filter>Systems\Physics\Components\PhysBody</Filter>
+    </ClCompile>
+    <ClCompile Include="Regions.cpp">
+      <Filter>Systems\Physics\Components\Region</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Systems\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleEmitter.cpp">
+      <Filter>Systems\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleManager.cpp">
+      <Filter>Systems\Particles\System</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Systems\GameLogic\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Systems\GameLogic\Components\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Systems\GameLogic\Components\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>Systems\GameLogic\Components\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="Static.cpp">
+      <Filter>Systems\GameLogic\Components\Static</Filter>
+    </ClCompile>
+    <ClCompile Include="bNewGame.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bNewGame</Filter>
+    </ClCompile>
+    <ClCompile Include="bHowToPlay.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bHowToPlay</Filter>
+    </ClCompile>
+    <ClCompile Include="bOptions.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bOptions</Filter>
+    </ClCompile>
+    <ClCompile Include="bCredits.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bCredits</Filter>
+    </ClCompile>
+    <ClCompile Include="bQuit.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bQuit</Filter>
+    </ClCompile>
+    <ClCompile Include="bResume.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bResume</Filter>
+    </ClCompile>
+    <ClCompile Include="bRestart.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bRestart</Filter>
+    </ClCompile>
+    <ClCompile Include="bMainMenu.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bMainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="bVolume.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bVolume</Filter>
+    </ClCompile>
+    <ClCompile Include="bResolution.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bResolution</Filter>
+    </ClCompile>
+    <ClCompile Include="bBack.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bBack</Filter>
+    </ClCompile>
+    <ClCompile Include="bYes.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bYes</Filter>
+    </ClCompile>
+    <ClCompile Include="bNo.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bNo</Filter>
+    </ClCompile>
+    <ClCompile Include="bFullscreen.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bFullscreen</Filter>
+    </ClCompile>
+    <ClCompile Include="bArrowLeft.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bArrowLeft</Filter>
+    </ClCompile>
+    <ClCompile Include="bArrowRight.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bArrowRight</Filter>
+    </ClCompile>
+    <ClCompile Include="bLevel.cpp">
+      <Filter>Systems\GameLogic\Components\Buttons\bLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockWin.cpp">
+      <Filter>Systems\GameLogic\Components\BlockWin</Filter>
+    </ClCompile>
+    <ClCompile Include="TutBox.cpp">
+      <Filter>Systems\GameLogic\Components\TutBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Turret.cpp">
+      <Filter>Systems\GameLogic\Components\Turret</Filter>
+    </ClCompile>
+    <ClCompile Include="Rocket.cpp">
+      <Filter>Systems\GameLogic\Components\Rocket</Filter>
+    </ClCompile>
+    <ClCompile Include="EditCam.cpp">
+      <Filter>Systems\GameLogic\Components\EditCam</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelPanCam.cpp">
+      <Filter>Systems\GameLogic\Components\LevelPanCam</Filter>
+    </ClCompile>
+    <ClCompile Include="Switch.cpp">
+      <Filter>Systems\GameLogic\Components\Switch</Filter>
+    </ClCompile>
+    <ClCompile Include="BiDirectionalFan.cpp">
+      <Filter>Systems\GameLogic\Components\BiDirectionalFan</Filter>
+    </ClCompile>
+    <ClCompile Include="BrokenPipe.cpp">
+      <Filter>Systems\GameLogic\Components\BrokenPipe</Filter>
+    </ClCompile>
+    <ClCompile Include="Checkpoint.cpp">
+      <Filter>Systems\GameLogic\Components\Checkpoint</Filter>
+    </ClCompile>
+    <ClCompile Include="KillZone.cpp">
+      <Filter>Systems\GameLogic\Components\KillZone</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditsText.cpp">
+      <Filter>Systems\GameLogic\Components\CreditsText</Filter>
+    </ClCompile>
+    <ClCompile Include="Fan.cpp">
+      <Filter>Systems\GameLogic\Components\Fan</Filter>
+    </ClCompile>
+    <ClCompile Include="EntranceDoor.cpp">
+      <Filter>Systems\GameLogic\Components\EntranceDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="External\TinyXML\inc\tinystr.cpp">
+      <Filter>External\TinyXML\inc</Filter>
+    </ClCompile>
+    <ClCompile Include="External\TinyXML\inc\tinyxml.cpp">
+      <Filter>External\TinyXML\inc</Filter>
+    </ClCompile>
+    <ClCompile Include="External\TinyXML\inc\tinyxmlerror.cpp">
+      <Filter>External\TinyXML\inc</Filter>
+    </ClCompile>
+    <ClCompile Include="External\TinyXML\inc\tinyxmlparser.cpp">
+      <Filter>External\TinyXML\inc</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugBars.cpp">
+      <Filter>Editor\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="EditorBar.cpp">
+      <Filter>Editor\System</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Content\Shaders\Basic.fx">
+      <Filter>Systems\Graphics\Content</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Content\Shaders\Debug.fx">
+      <Filter>Systems\Graphics\Content</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Content\Shaders\Sepia.fx">
+      <Filter>Systems\Graphics\Content</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Content\Resources\cursor1.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Content\Resources\cursor2.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Content\Resources\cursor3.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Content\Resources\cursor4.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Content\Resources\cursor5.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="fmodex.dll">
+      <Filter>External\FMOD\bin</Filter>
+    </None>
+    <None Include="External\DirectX\inc\d3dx9math.inl">
+      <Filter>External\DirectX\inc</Filter>
+    </None>
+    <None Include="AntTweakBar.dll">
+      <Filter>External\AntTweakBar\bin</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Content\Resources\Icon.ico">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ScuttleEngine.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="External\FMOD\lib\fmodex_vc.lib">
+      <Filter>External\FMOD\lib</Filter>
+    </Library>
+    <Library Include="External\DirectX\lib\d3d9.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+    <Library Include="External\DirectX\lib\d3dx9.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+    <Library Include="External\DirectX\lib\d3dx9d.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+    <Library Include="External\DirectX\lib\DxErr.lib">
+      <Filter>External\DirectX\lib</Filter>
+    </Library>
+    <Library Include="External\AntTweakBar\lib\AntTweakBar.lib">
+      <Filter>External\AntTweakBar\lib</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

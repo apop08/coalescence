@@ -1,0 +1,10 @@
+Transform
+0 0
+1 1
+0
+CreditsText
+Sprite
+..//Content//Textures//Credits//DigiPen.png
+1024 256
+1 1 1 1
+-100

@@ -1,0 +1,26 @@
+Transform
+1000 150
+1 1
+0
+Camera
+CompSprite
+..//Content//Textures//Newspaper.png
+1024 512
+1 1 1 1
+-148 50
+1 1
+0
+..//Content//Textures//Transition2.png
+128 1024
+1 1 1 1
+300 0
+1 1
+0
+..//Content//Textures//Loader.png
+1024 512
+1 1 1 1
+-148 -300
+0.5 0.5
+0
+endlist
+50

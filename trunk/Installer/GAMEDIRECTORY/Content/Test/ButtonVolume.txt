@@ -1,0 +1,10 @@
+Transform
+0 0
+1 1
+0
+bVolume
+Sprite
+..//Content//Test//Buttons//VolumeMedium.png
+440 68
+1 1 1 1
+-3

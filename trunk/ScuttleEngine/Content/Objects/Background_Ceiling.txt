@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//Background_Ceiling.png
+512 512
+1 1 1 1
+150

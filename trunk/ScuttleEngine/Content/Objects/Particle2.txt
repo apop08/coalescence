@@ -1,0 +1,10 @@
+Transform
+0 0
+.25 .25
+0
+Particle
+Sprite
+..//Content//Textures//PipeGasParticle2.png
+256 256
+1 1 1 1
+11

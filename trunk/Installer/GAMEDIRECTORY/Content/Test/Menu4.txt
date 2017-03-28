@@ -1,0 +1,16 @@
+MenuOptions.txt
+0 0
+1.2 3
+0
+ButtonResolution.txt
+0 200
+1 1
+0
+ButtonVolume.txt
+0 100
+1 1
+0
+ButtonBack.txt
+0 0
+1 1
+0

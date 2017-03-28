@@ -1,0 +1,13 @@
+Transform
+0 0
+1 1
+0
+EntranceDoor
+Sprite
+..//Content//Textures//EntranceDoor.png
+256 256
+1 1 1 1
+100
+SoundNode
+..//Content//Audio//DoorClose.mp3
+endlist

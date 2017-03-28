@@ -1,0 +1,18 @@
+Transform
+0 0
+1 1
+0
+Thwomp
+Sprite
+..//Content//Textures//piston.png
+64 256
+1 1 1 1
+3
+PhysBody
+32 128
+32768
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

@@ -1,0 +1,493 @@
+1
+Player01
+Player3.txt
+112.449 1800
+0.5 0.5
+0
+0
+HUD01
+HUD.txt
+112.449 337.982
+1.02 1.02
+0
+0
+SB00
+SUPERBLOCK.txt
+500 0
+8 2
+0
+0
+SB01
+SUPERBLOCK.txt
+-140 1152
+2 20
+0
+0
+SB02
+SUPERBLOCK.txt
+1140 384
+2 8
+0
+0
+SB03
+SUPERBLOCK.txt
+628 768
+6 2
+0
+0
+SB04
+SUPERBLOCK.txt
+372 1664
+2 12
+0
+0
+DefaultObjectName
+Siding.txt
+-140 256
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 256
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 512
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 512
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 768
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 768
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 1024
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 1024
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 1280
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 1280
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 1536
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 1536
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 1792
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 1792
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 2048
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 2048
+-1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+-140 2304
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 2304
+-1 -1
+0
+0
+DefaultObjectName
+Corner.txt
+-140 0
+-1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+-396 0
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+116 0
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+372 0
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+628 0
+-1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+884 0
+-1 -1
+0
+0
+DefaultObjectName
+Corner.txt
+1140 0
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1396 0
+1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+1140 256
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1396 256
+1 -1
+0
+0
+DefaultObjectName
+Siding.txt
+1140 512
+1 -1
+0
+0
+DefaultObjectName
+Dirt.txt
+1396 512
+1 -1
+0
+0
+DefaultObjectName
+Corner.txt
+1140 768
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+1396 768
+1 -1
+0
+0
+DefaultObjectName
+Ceiling.txt
+884 768
+1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+628 768
+1 1
+0
+0
+DefaultObjectName
+Ceiling.txt
+372 768
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+372 1024
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+628 1024
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+372 1280
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+628 1280
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+372 1536
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+628 1536
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+372 1792
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+628 1792
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+372 2048
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+628 2048
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+372 2304
+1 1
+0
+0
+DefaultObjectName
+Dirt.txt
+628 2304
+1 1
+0
+0
+DefaultObjectName
+BaseVent.txt
+304 702
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+304 1210
+1 1
+0
+0
+DefaultObjectName
+VerticalPipe.txt
+304 2108
+1 1
+0
+0
+DefaultObjectName
+BlockWin.txt
+890 224
+1 1
+0
+1
+BMTut01
+BasicMovementTut.txt
+-288 587
+1 1
+0
+1
+DefaultObjectName
+Background_Ground.txt
+-12 383
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+500 383
+1 1
+0
+0
+DefaultObjectName
+Background_Ground.txt
+1012 383
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+244 511
+1 1
+0
+0
+DefaultObjectName
+Light.txt
+756 511
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+244 383
+1 1
+0
+0
+DefaultObjectName
+Ceiling_Shadow.txt
+756 383
+1 1
+0
+0
+DefaultObjectName
+Shaft_Back.txt
+116 767
+1 1
+0
+0
+DefaultObjectName
+Shaft_Back.txt
+116 1023
+1 1
+0
+0
+DefaultObjectName
+Shaft_Back.txt
+116 1279
+1 1
+0
+0
+DefaultObjectName
+Shaft_Back.txt
+116 1535
+1 1
+0
+0
+DefaultObjectName
+Shaft_Back.txt
+116 1791
+1 1
+0
+0
+DefaultObjectName
+Shaft_Back.txt
+116 2047
+1 1
+0
+0
+DefaultObjectName
+Shaft_Back.txt
+116 2303
+1 1
+0
+0
+DefaultObjectName
+Shaft_Front.txt
+116 2303
+1 1
+0
+0
+DefaultObjectName
+Shaft_Front.txt
+116 2047
+1 1
+0
+0
+DefaultObjectName
+Shaft_Front.txt
+116 1791
+1 1
+0
+0
+DefaultObjectName
+Shaft_Front.txt
+116 1535
+1 1
+0
+0
+DefaultObjectName
+Shaft_Front.txt
+116 1279
+1 1
+0
+0
+DefaultObjectName
+Shaft_Front.txt
+116 1023
+1 1
+0
+0
+DefaultObjectName
+Shaft_Front.txt
+116 767
+1 1
+0
+0
+DefaultObjectName
+EntranceSign.txt
+500 458
+0.9 0.9
+0
+0
+DefaultObjectName
+FrontDesk.txt
+500 254
+1 1
+0
+0

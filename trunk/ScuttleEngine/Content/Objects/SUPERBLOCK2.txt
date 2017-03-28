@@ -1,0 +1,24 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//AniFan.png
+100 50
+1 1 1 1
+10
+PhysBody
+50 25
+512
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5
+Region
+90
+7
+400
+64 64
+Emitter
+FAN

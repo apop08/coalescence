@@ -1,0 +1,14 @@
+Transform
+0 0
+1 1
+0
+bLevel
+Sprite
+..//Content//Textures//Levels//Level1.png
+1024 1024
+1 1 1 1
+-10
+SoundNode
+..//Content//Audio//MenuSound2.mp3
+..//Content//Audio//LevelLocked.mp3
+endlist

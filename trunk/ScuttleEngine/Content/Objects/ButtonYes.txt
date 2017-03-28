@@ -1,0 +1,13 @@
+Transform
+0 0
+1 1
+0
+bYes
+Sprite
+..//Content//Textures//Buttons//Yes.png
+128 64
+1 1 1 1
+-10
+SoundNode
+..//Content//Audio//MenuSound2.mp3
+endlist

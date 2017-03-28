@@ -1,0 +1,9 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//Corner_128.png
+128 128
+1 1 1 1
+10

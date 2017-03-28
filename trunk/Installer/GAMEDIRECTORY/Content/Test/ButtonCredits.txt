@@ -1,0 +1,10 @@
+Transform
+0 0
+1 1
+0
+bCredits
+Sprite
+..//Content//Test//Buttons//Credits.png
+440 68
+1 1 1 1
+-3

@@ -1,0 +1,185 @@
+Player3.txt
+100 100
+.2 .2
+0
+0
+HUD.txt
+0 0
+1.02 1.02
+0
+0
+Block.txt
+516 28
+1 1
+0
+0
+Block.txt
+980 93
+2 2
+0
+0
+Block.txt
+2110 -800
+1 1
+0
+0
+Block.txt
+2300 -700
+.5 .5
+0
+0
+SUPERBLOCK2.txt
+750 -8
+.5 .5
+0
+6
+SUPERBLOCK2.txt
+819 -8
+.5 .5
+0
+6
+SUPERBLOCK2.txt
+1352 -700
+.5 .5
+0
+6
+SUPERBLOCK2.txt
+1415 -860
+.5 .5
+0
+6
+SUPERBLOCK2.txt
+1900 -425
+.5 .5
+-90
+6
+SUPERBLOCK.txt
+1700 -450
+2 .5
+0
+0
+SUPERBLOCK.txt
+1980 -650
+.5 .5
+0
+0
+SUPERBLOCK.txt
+2290 -600
+3 .5
+0
+0
+SUPERBLOCK.txt
+1980 -870
+.5 1
+0
+0
+SUPERBLOCK.txt
+1352 -790
+.5 1.25
+0
+0
+SUPERBLOCK.txt
+1300 250
+3 3
+0
+0
+SUPERBLOCK.txt
+2000 280
+3 5
+0
+0
+SUPERBLOCK.txt
+650 -50
+1 6.5
+0
+0
+SUPERBLOCK.txt
+0 -100
+10 1
+0
+0
+SUPERBLOCK.txt
+1000 -400
+5 1
+0
+0
+SUPERBLOCK.txt
+1650 -100
+10 1
+0
+0
+SUPERBLOCK.txt
+380 -6
+1 .5
+0
+0
+SUPERBLOCK.txt
+2800 -400
+5 1
+0
+0
+SUPERBLOCK.txt
+1075 400
+.5 .5
+0
+0
+SUPERBLOCK.txt
+515 500
+1 .5
+0
+0
+SUPERBLOCK.txt
+1900 -900
+10 .5
+0
+0
+SUPERBLOCK.txt
+1290 -625
+.5 4.5
+0
+0
+SUPERBLOCK.txt
+2510 -625
+.5 4.5
+0
+0
+BlockWin.txt
+3000 -400
+1 1
+0
+0
+BlockWin.txt
+2872 -400
+1 1
+0
+0
+Background.txt
+0 0
+2 2
+0
+0
+Background.txt
+9112 0
+2 2
+0
+0
+Background.txt
+6834 0
+2 2
+0
+0
+Background.txt
+4556 0
+2 2
+0
+0
+Background.txt
+2278 0
+2 2
+0
+0
+Background.txt
+-2278 0
+2 2
+0
+0

@@ -1,0 +1,17 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Test//SUPERBLOCK.png
+128 128
+1 1 1 1
+10
+PhysBody
+64 64
+512
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5

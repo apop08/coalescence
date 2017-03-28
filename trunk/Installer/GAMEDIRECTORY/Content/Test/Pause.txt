@@ -1,0 +1,36 @@
+PauseBackground.txt
+0 0
+2 2
+0
+PauseHUD.txt
+0 150
+1.02 1.02
+0
+ButtonResume.txt
+0 410
+1 1
+0
+ButtonRestart.txt
+0 333
+1 1
+0
+ButtonOptions.txt
+0 256
+1 1
+0
+ButtonMainMenu.txt
+0 179
+1 1
+0
+ButtonHowToPlay.txt
+0 102
+1 1
+0
+ButtonCredits.txt
+0 25
+1 1
+0
+ButtonQuit.txt
+0 -52
+1 1
+0

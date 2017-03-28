@@ -1,0 +1,29 @@
+Transform
+0 0
+1 1
+0
+Sprite
+..//Content//Textures//AniFan.png
+100 50
+1 1 1 1
+10
+Fan
+AttenuatedSoundNode
+..//Content//Audio//Fan_LargeLoop06.wav
+endlist
+3000.0
+3000.0
+PhysBody
+50 25
+64
+4
+-.5 -.5
+-.5 .5
+.5 .5
+.5 -.5
+Region
+90
+4
+64 64
+Emitter
+FAN
